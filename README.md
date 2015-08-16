@@ -22,7 +22,7 @@ func main() {
 </pre>
 
 # Related
-[gotisvdo](https://github.com/shamsher31/gotisvdo)
+[goisvdo](https://github.com/shamsher31/goisvdo)
 [goistext](https://github.com/ferhatelmas/goistext)
 [goisimg](https://github.com/ferhatelmas/goisimg)
 
