@@ -23,8 +23,8 @@ func main() {
 
 # Related
 [goisvdo](https://github.com/shamsher31/goisvdo)
-[goistext](https://github.com/ferhatelmas/goistext)
-[goisimg](https://github.com/ferhatelmas/goisimg)
+[goistext](https://github.com/shamsher31/goistext)
+[goisimg](https://github.com/shamsher31/goisimg)
 
 # Why
 This package is inspired by [is-travis](https://www.npmjs.com/package/is-travis) npm module to check your code is running on Travis CI.
