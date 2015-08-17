@@ -17,7 +17,7 @@ import (
 
 func main() {
 	fmt.Println(travis.Is())
-  // true
+    // true
 }
 ```
 
@@ -33,7 +33,7 @@ import (
 
 func main() {
 	fmt.Println(pckTravis.Is())
-  // true
+    // true
 }
 ```
 ### Related
