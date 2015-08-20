@@ -1,4 +1,7 @@
 # goistravis
+
+[![Godoc](http://img.shields.io/badge/godoc-reference-blue.svg?style=flat)](https://godoc.org/github.com/shamsher31/goistravis)
+
 Check if your code is running on Travis CI
 
 ### How to install
