@@ -1,6 +1,9 @@
 # goistravis
 
 [![Godoc](http://img.shields.io/badge/godoc-reference-blue.svg?style=flat)](https://godoc.org/github.com/shamsher31/goistravis)
+[![Build Status](https://travis-ci.org/shamsher31/goistravis.svg)](https://travis-ci.org/shamsher31/goistravis)
+[![GitHub release](http://img.shields.io/github/release/shamsher31/goistravis.svg?style=flat-square)](release)
+[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](license)
 
 Check if your code is running on Travis CI
 
