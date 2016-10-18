@@ -9,13 +9,14 @@ import (
 func get(t string) bool {
 	for _, val := range os.Environ() {
 		s := strings.Split(val, "=")
-		if s[0] == t {
+		if strings.Contains(s[0], t) {
 			return true
 		}
 	}
 	return false
 }
 
+// Is returns whether env contains Travis config
 func Is() bool {
 	if get("TRAVIS") && get("CI") {
 		return true
