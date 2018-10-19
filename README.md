@@ -22,8 +22,7 @@ import (
 )
 
 func main() {
-	fmt.Println(travis.Is())
-    // true
+	fmt.Println(travis.Is()) // Returns true if running on Travis system , else false
 }
 ```
 ###Aliasing Imports
@@ -37,8 +36,7 @@ import (
 )
 
 func main() {
-	fmt.Println(pckTravis.Is())
-    // true
+	fmt.Println(pckTravis.Is()) // Returns true if running on Travis system , else false
 }
 ```
 ### Related
